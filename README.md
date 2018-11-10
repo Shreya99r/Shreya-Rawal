@@ -1,4 +1,4 @@
-# Shreya-Rawal
+# Plugin to open SQL database for Web Apps using Apache Cordova
 plugin to open and use sqlite databases on Android &amp; iOS with HTML5/Web SQL API .
 // Wait for Cordova to load
 document.addEventListener("deviceready", onDeviceReady, false);
